@@ -1,0 +1,25 @@
+#open-source .screenshot-list img {
+  width: 100%;
+  margin-top: 20px;
+}
+
+#open-source .experience {
+  margin-top: 50px;
+}
+
+#open-source .tag {
+  display: inline-block;
+  background-color: #A51927;
+  padding: 5px 15px;
+  color: white;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+
+#open-source .tag:not(:last-child) {
+  margin-right: 5px;
+}
+
+#open-source #app-name {
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #49ff18, 0 0 30px #49ff18, 0 0 40px #49ff18, 0 0 55px #49ff18, 0 0 75px #49ff18;
+}

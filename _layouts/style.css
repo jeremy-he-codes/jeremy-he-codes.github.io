@@ -5,5 +5,6 @@
 {% include css/clean.css %}
 {% include css/skew.scroll.css %}
 {% include css/project.map.css %}
+{% include css/open_source.css %}
 {% include css/special.css %}
 {% include css/timeline/style.css %}
